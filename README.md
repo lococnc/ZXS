@@ -1,5 +1,5 @@
 # ZXS
 Files to recreate a Lazer ZXS
-Collaborators
+Collaborators;
 Michael Gamber
 Colin Munkley
